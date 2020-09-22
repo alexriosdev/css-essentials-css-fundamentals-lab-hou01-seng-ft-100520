@@ -13,10 +13,10 @@ img {
 }
 
 nav {
-  margin: 0 auto;
+  text-align: center;
 }
 
-a {
+nav a {
   padding: 10px;
   background-color: #de4463;
 }
