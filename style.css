@@ -15,12 +15,13 @@ img {
 
 nav {
   text-align: center;
-  margin: 0 auto;
+  
 }
 
 nav a {
   padding: 0 10px;
   background-color: #de4463;
+  margin: 0 auto;
 }
 
 figcaption {
