@@ -8,6 +8,10 @@ h1 {
   text-align: center;
 }
 
+img {
+  margin: 0 auto;
+}
+
 a {
   padding: 10px;
   background-color: #de4463;
